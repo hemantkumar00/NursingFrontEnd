@@ -1,1 +1,1 @@
-module.exports.API = `http://localhost:8080`;
+module.exports.API = `http://nursapp-env.eba-2fbdnpzn.ap-south-1.elasticbeanstalk.com/`;
