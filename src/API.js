@@ -1,1 +1,1 @@
-module.exports.API = `http://15.207.92.157:8080`;
+module.exports.API = `http://13.126.162.19:8080`;
